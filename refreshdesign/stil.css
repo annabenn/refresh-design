@@ -1,0 +1,42 @@
+table.rosyBrownTable {
+    border: 4px solid #BA8697;
+    background-color: #555555;
+    width: 400px;
+    text-align: center;
+    border-collapse: collapse;
+  }
+  table.rosyBrownTable td, table.rosyBrownTable th {
+    border: 1px solid #555555;
+    padding: 4px 6px;
+  }
+  table.rosyBrownTable tbody td {
+    font-size: 13px;
+    font-weight: bold;
+    color: #FFFFFF;
+  }
+  table.rosyBrownTable tr:nth-child(even) {
+    background: #D99DB1;
+  }
+  table.rosyBrownTable td:nth-child(even) {
+    background: #D197AA;
+  }
+  table.rosyBrownTable thead {
+    }
+  table.rosyBrownTable thead th {
+    font-weight: bold;
+  }
+  table.rosyBrownTable tfoot {
+    font-weight: bold;
+    background: #BA8697;
+    border-top: 1px solid #444444;
+  }
+  table.rosyBrownTable tfoot .links {
+    text-align: right;
+  }
+  table.rosyBrownTable tfoot .links a{
+    display: inline-block;
+    background: #FFFFFF;
+    color: #BA8697;
+    padding: 2px 8px;
+    border-radius: 5px;
+  }

@@ -1,0 +1,61 @@
+
+/*GALLERY*/
+.gallery-upload {
+  width: 100%;
+  padding: 20px 0;
+  margin-top: 20px;
+  background-color: #F2F2F2;
+  float:bottom;
+  text-align:center;
+}
+
+.gallery-upload h2 {
+  font-family: Catamaran;
+  font-size: 28px;
+  font-weight: 600;
+  color: #111;
+  text-transform: uppercase;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.gallery-upload form {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: center;
+}
+
+.gallery-upload form input {
+  width: 200px;
+  height: 30px;
+  margin-top: 10px;
+  padding: 0 15px;
+  border-radius: 100px;
+  box-shadow: none;
+  border: 1px solid #ccc;
+}
+
+.gallery-upload-file-input {
+  padding-top: 8px !important;
+  background-color: #fefefe;
+}
+
+.gallery-upload form button {
+  width: 120px;
+  height: 30px;
+  margin-top: 10px;
+  border-radius: 100px;
+  box-shadow: none;
+  border: none;
+  background-color: #4EADFF;
+  color: #fff;
+  font-weight: 700;
+}
+
+input:focus {
+    outline:none !important;
+}
+
+
+
