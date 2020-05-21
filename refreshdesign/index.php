@@ -108,5 +108,6 @@ Studioul nostru de design te ajuta sa gasesti raspunsul la aceste intrebari.</br
           }
         }
         preloadImages("img/minimalist.jpg", "img/midcentury.jpg", "img/industrial.jpg", "img/traditional.jpg","img/bohemian.jpg");
-      </script>      
+      </script>     
+
      
