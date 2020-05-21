@@ -13,3 +13,4 @@ if($result){
     echo "Nu s-a sters!";
 }
 ?>
+
